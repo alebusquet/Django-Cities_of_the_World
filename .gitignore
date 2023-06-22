@@ -1,0 +1,10 @@
+# Byte-compiled / Optimized / DLL (Dynamic Link Library)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Enviroments
+venv-Django_bas
+
+Fundamentos
+*.docx
