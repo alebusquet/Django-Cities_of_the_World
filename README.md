@@ -41,20 +41,39 @@
     ![Captura de pantalla 2023-06-22 a las 10 26 55](https://github.com/alebusquet/Django-Cities_of_the_World/assets/110254796/53b05d61-042b-4fbb-9a1d-fc1f569f137c)
 
 
-
-
-
-
-
-
+--------
 
 2. Cómo implementarlo:
 
+   El proyecto puede verse en localhost, con acceso directo a su enlace en la sección de 'View Site'
 
+-	Clonar el repositorio
+
+-	Crear un entorno virtual
+
+-	Activar el entorno virtual
+
+-	Instalar los recursos mediante requirements.txt (`pip install -r requirements.txt`)
+
+-	Ejecutar el “runserver” para despliege local (`python manage.py runserver`)
+
+-	Al correr el servidor, copiar la direccion que devuelve (http://127.0.0.1:8000/)
+
+-	Abrir el navegador y pegar esa dirección (se agrega 'admin/' para el panel de administrador)
+
+-	La aplicación aparecerá desplegada en localhost
+
+ 	También existe la posibilidad de realizar su deploy para acceso público
+
+--------
 
 3. Imágenes de la aplicación:
 
+   ![Captura de pantalla 2023-06-22 a las 11 27 05](https://github.com/alebusquet/Django-Cities_of_the_World/assets/110254796/78c3b8c5-3c6f-47f3-9a4d-73d980158068)
 
+   ![screencapture-127-0-0-1-8000-2023-06-22-11_34_08](https://github.com/alebusquet/Django-Cities_of_the_World/assets/110254796/55c75891-c4c6-4196-89a4-59e15ebcf7be)
+
+--------
 
 #### Es todo. Muchas gracias!
 
